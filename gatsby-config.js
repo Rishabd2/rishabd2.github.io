@@ -1,11 +1,10 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/rishabd2.github.io', // Add the repository name as the path prefix
+  pathPrefix: "/rishabd2.github.io", // Add the repository name as the path prefix
   siteMetadata: {
     title: 'Brittany Chiang',
-    description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    description: 'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://rishabd2.github.io', // Your GitHub Pages URL
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
@@ -124,7 +123,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-gh-pages`,
       options: {
-        pathPrefix: '/rishabd2.github.io',
+        pathPrefix: "/rishabd2.github.io",
       },
     },
   ],
