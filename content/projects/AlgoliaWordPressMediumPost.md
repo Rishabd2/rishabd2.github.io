@@ -1,14 +1,12 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2024-03-27'
+title: 'Room reservation sustem'
+github: 'https://github.com/Rishabd2'
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
-showInProjects: true
+  - GCS
+  - SQL
+  - React
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Building a custom room reservation system using JS and react and hosted on GCS.

@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         Passionate tech innovator with a knack for identifying inefficiencies and crafting smarter
-        solutions.Currently, I’m focused on building human-centered AI products.
+        solutions. Currently, an undergrad @UIUC pursuing CS & Advertisng.
       </p>
     </>
   );

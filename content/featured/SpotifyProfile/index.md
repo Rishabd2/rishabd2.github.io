@@ -2,7 +2,7 @@
 date: '2'
 title: 'Spotify Profile'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: 'https://github.com/Rishabd2'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - React
@@ -12,4 +12,4 @@ tech:
   - Heroku
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web app for mood detection from journals, which curates personalized Spotify playlists to enhance emotional wellness. Using collaborative and content-based filtering for dynamic playlists based on mood classification.

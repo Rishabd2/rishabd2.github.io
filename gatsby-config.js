@@ -5,10 +5,10 @@ module.exports = {
   siteMetadata: {
     title: 'Rishab Doshi',
     description:
-      'Rishab Doshi is a software engineer who specializes in building exceptional digital experiences.',
+      'Rishab Doshi is a Passionate tech innovator with a knack for identifying inefficiencies and crafting smarter solutions.',
     siteUrl: 'https://rishabd2.github.io',
     image: '/og.png',
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@rishabdoshi88',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
