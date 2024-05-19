@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   pathPrefix: '/rishabd2.github.io',
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Rishab Doshi',
     description:
       'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://rishabd2.github.io',
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Rishab Doshi',
+        short_name: 'Rishab Doshi',
         start_url: '/rishabd2.github.io/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

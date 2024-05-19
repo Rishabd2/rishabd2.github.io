@@ -1,8 +1,8 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "rish",
+  "description": "Personal Website rish",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Rishab Doshi <rishabd2@illinois.edu>",
   "repository": {
     "type": "git",
     "url": "https://github.com/rishabd2/rishabd2.github.io"
