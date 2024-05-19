@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Rishab Doshi',
     description:
-      'Rishab Doshi is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Rishab Doshi is a software engineer who specializes in building exceptional digital experiences.',
     siteUrl: 'https://rishabd2.github.io',
     image: '/og.png',
     twitterUsername: '@bchiang7',
