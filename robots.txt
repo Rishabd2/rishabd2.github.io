@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rishabd2.github.io/sitemap-index.xml
+Host: https://rishabd2.github.io
