@@ -125,7 +125,14 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Data Mining and Analysis',
+    'TensorFlow',
+    'React',
+    'ML models(LSTMs, RNNs, CNNs)',
+    'Python',
+    'LLM\'s',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +142,26 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Rishab and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Rishab Doshi, and I'm passionate about leveraging technology to
+              solve real-world problems. My journey into tech innovation began with a desire to
+              improve systems around me, from building health chatbots to researching neuromarketing
+              in advertising technology. Fast-forward to today, I've had the opportunity to work as
+              a research assistant, a machine learning intern, and an entrepreneur, launching a
+              startup in influencer marketing.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Fast-forward to today, I've had the opportunity to work as{' '}
+              <a href="https://museresearch.github.io/Shield-Illinois/">a research assistant</a>,{' '}
+              <a href="https://www.linkedin.com/company/pacificmedicalcollege/">an e-volunteer</a>,{' '}
+              <a href="https://www.linkedin.com/school/ss-college-of-engineering-udaipur/">
+                {' '}
+                machine learning intern
+              </a>
+              , and{' '}
+              <a href="infoso">an entrepreneur, launching a startup in influencer marketing.</a>. My
+              main focus these days is developing human-centered AI products that bridge creativity
+              and technology seamlessly.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
