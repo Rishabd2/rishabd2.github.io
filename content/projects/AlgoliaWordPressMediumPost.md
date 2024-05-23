@@ -1,6 +1,6 @@
 ---
 date: '2024-03-27'
-title: 'Room reservation sustem'
+title: 'Room reservation system'
 github: 'https://github.com/Rishabd2'
 external: ''
 tech:
