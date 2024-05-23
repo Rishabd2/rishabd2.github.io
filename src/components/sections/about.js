@@ -145,9 +145,7 @@ const About = () => {
               Hello! My name is Rishab Doshi, and I'm passionate about leveraging technology to
               solve real-world problems. My journey into tech innovation began with a desire to
               improve systems around me, from building health chatbots to researching neuromarketing
-              in advertising technology. Fast-forward to today, I've had the opportunity to work as
-              a research assistant, a machine learning intern, and an entrepreneur, launching a
-              startup in influencer marketing.
+              in advertising technology.
             </p>
 
             <p>
