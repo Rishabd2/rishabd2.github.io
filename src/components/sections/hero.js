@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         Passionate tech innovator with a knack for identifying inefficiencies and crafting smarter
-        solutions. Currently, an undergrad @UIUC pursuing CS & Advertisng.
+        solutions. Currently, an undergrad @UIUC pursuing CS & Advertising.
       </p>
     </>
   );
