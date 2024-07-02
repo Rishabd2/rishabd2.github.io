@@ -6,8 +6,8 @@ github: 'https://github.com/Rishabd2'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - React
-  - Styled Components
-  - Express
+  - LSTM
+  - TensorFlow
   - Spotify API
   - Heroku
 ---
